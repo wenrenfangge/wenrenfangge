@@ -39,6 +39,7 @@
 [![blog](https://img.shields.io/badge/CSDN_blog-闻人放歌-yello)](https://blog.csdn.net/huyijian1314)
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元/战舰世界/游戏开发/code-red)
+
 **从 2024-07-15 开始统计的访问量：**![Visitor Count](https://profile-counter.glitch.me/wenrenfangge/count.svg)
 [![wenrenfangge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwenrenfangge&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
