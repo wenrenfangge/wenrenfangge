@@ -11,10 +11,15 @@
 
 
 >你好呀！这是我的Github首页~
+
 >欢迎关注我的B站账号：[闻人放歌](https://space.bilibili.com/5510591)
+
 >目前空闲时间学习一些新东西，做一些小工具和开源项目
+
 >欢迎交流学习，共同进步，邮箱: wenrenfangge@vip.qq.com
+
 >csdn博客: https://blog.csdn.net/huyijian1314
+
 >~~github个人博客还没上传~~
 
 ----
